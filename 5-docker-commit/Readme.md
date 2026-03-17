@@ -48,17 +48,17 @@ docker commit <container-id/name> <image>:<tag>
 
 ##  Hands-On Demo
 
-### 1️⃣ Create Image from Container
+### 1️⃣ Pull Images
 ```
-docker commit new-ubuntu mynginx:v1
+docker pull nginx
 docker images
 ```
-
 ---
+
 
 ### 2️⃣ Run Container
 ```
-docker run -itd --name=newapp -p 80:80 mynginx:v1
+docker run -itd --name=newapp  -p 80:80 nginx
 docker ps -a
 ```
 
@@ -67,7 +67,7 @@ docker ps -a
 ### 3️⃣ Modify Inside Container
 ```
 docker exec -it newapp /bin/bash
-echo "Hello World" > /var/www/html/index.html
+echo "Hello World" > /usr/share/nginx/html/index.html
 ```
 
 ---
