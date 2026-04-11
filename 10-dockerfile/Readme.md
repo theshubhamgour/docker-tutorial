@@ -79,7 +79,6 @@ docker run -d -p 8080:80 my-html-site
 ```
 
 ---
-
 ## Common Dockerfile Instructions Explained
 
 Here are the most frequently used instructions when writing a Dockerfile:
