@@ -28,7 +28,7 @@ Defines:
 ## 🐳 Existing Dockerfile (Typical Approach)
 
 ``` dockerfile
-FROM openjdk:17
+FROM maven:3.9
 
 WORKDIR /app
 COPY . .
