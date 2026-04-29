@@ -2,11 +2,9 @@
 ### *By Shubham Gour (@theshubhamgour)*  
 
 ---
+<img width="1672" height="941" alt="ChatGPT Image Apr 29, 2026, 01_23_13 PM" src="https://github.com/user-attachments/assets/4dceb0e6-32da-4716-aaea-3cf95c6d560f" />"
 
-<!-- Replace the src URL below with the GitHub URL of the uploaded thumbnail image -->
-<img width="1280" height="720" alt="Docker Full Course Thumbnail" src="YOUR_UPLOADED_IMAGE_URL_HERE" />
-
-🎥 **YouTube Full Course (12+ Hours):** [YOUR_YOUTUBE_VIDEO_LINK_HERE]  
+🎥 **YouTube Full Course (12+ Hours):** [Docker Video Link](https://www.youtube.com/watch?v=rhD12yd5VyI)  
 🌐 **GitHub Repo:** [docker-tutorial](https://github.com/theshubhamgour/docker-tutorial)
 
 ---
